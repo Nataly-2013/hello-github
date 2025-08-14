@@ -1,0 +1,2 @@
+These are my practice notes for GitHub
+Add notes.txt file
